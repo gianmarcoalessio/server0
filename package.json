@@ -1,0 +1,22 @@
+{
+  "name": "server0",
+  "version": "1.0.0",
+  "description": "server di prova",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giemsei/server0.git"
+  },
+  "author": "giammi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giemsei/server0/issues"
+  },
+  "homepage": "https://github.com/giemsei/server0#readme",
+  "dependencies": {
+    "espress": "0.0.0"
+  }
+}
